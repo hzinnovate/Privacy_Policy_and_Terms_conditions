@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 export const TermsAndConditions = () => {
     return (
         <div>
-            <Link to="/Privacy_Policy_Statement">
+            <Link to="/privacy-policy">
                 <button>
                     Go to privacy policy
             </button>

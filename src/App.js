@@ -9,10 +9,10 @@ function App() {
         <Route exact path="/">
           <SelectRoute />
         </Route>
-        <Route path="/Privacy_Policy_Statement">
+        <Route path="/privacy-policy">
           <PrivacyPolicy />
         </Route>
-        <Route path="/Terms_And_Conditions">
+        <Route path="/terms-and-conditions">
           <TermsAndConditions />
         </Route>
       </Switch>
